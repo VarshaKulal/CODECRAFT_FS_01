@@ -29,9 +29,8 @@ CODECRAFT_FS_01/ ├── node_modules/ ├── public/ ├── login.html 
 
 ## 🛠 Setup Instructions
 ### Backend
-1. Go inside backend folder 
+1. Go inside root folder 
    ```bash
-   cd backend
    npm install
    node server.js
 ### MongoDB 
